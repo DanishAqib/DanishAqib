@@ -89,6 +89,6 @@
 <br/>  
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danishaqib&" alt="danishaqib" /></p>
-<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishaqib&show_icons=true&locale=en&layout=compact" alt="danishaqib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishaqib&show_icons=true&locale=en&layout=compact" alt="danishaqib" /></p>
 
 
