@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Danish</h1>
-<h3 align="center">A Full Stack Software Engineer and AI/ML Enthusiast</h3>
+![Banner](https://github.com/DanishAqib/DanishAqib/blob/main/Banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishaqib&label=Profile%20views&color=0e75b6&style=flat" alt="danishaqib" /> </p>
 
