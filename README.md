@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danishaqib" alt="danishaqib" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 My portfolio: <a href="https://fullstackdanish.netlify.app/">FullStackDanish</a>
 
 - 🌱 I’m currently learning **Angular, NextJs**
 
