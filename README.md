@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishaqib&label=Profile%20views&color=0e75b6&style=flat" alt="danishaqib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danishaqib" alt="danishaqib" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=danishaqib" alt="danishaqib" /></a> </p>
 
 - 🔭 My portfolio: <a href="https://fullstackdanish.netlify.app/">FullStackDanish</a>
 
