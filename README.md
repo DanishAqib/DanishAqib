@@ -6,7 +6,7 @@
 
 - 🔭 My portfolio: <a href="https://fullstackdanish.netlify.app/" target="_blank">FullStackDanish</a>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **danishaqib129@gmail.com**
 
