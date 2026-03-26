@@ -1,12 +1,10 @@
 ![Banner](https://github.com/DanishAqib/DanishAqib/blob/main/Banner.png)
 
-<h1 align="center">Danish Aqib | Full Stack Software Engineer 🚀</h1>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=danishaqib&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 Full Stack Software Engineer with **4+ years** of experience building production-grade web and mobile applications for international clients. I specialize in architecting **SaaS platforms** and **two-sided marketplaces** that serve thousands of users across diverse industries.
 
@@ -19,7 +17,7 @@ Full Stack Software Engineer with **4+ years** of experience building production
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -56,9 +54,9 @@ Full Stack Software Engineer with **4+ years** of experience building production
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌐 [Rounddance](https://rounddance.com) | Indigenous Business Marketplace
+### [Rounddance](https://rounddance.co) | Indigenous Business Marketplace
 > **Full Stack Developer**
 
 A comprehensive digital marketplace connecting **15,000+ Indigenous-owned businesses** across North America.
@@ -73,7 +71,7 @@ A comprehensive digital marketplace connecting **15,000+ Indigenous-owned busine
 
 ---
 
-### 🎬 Crewforge | Entertainment Industry Talent Marketplace
+### Crewforge | Entertainment Industry Talent Marketplace
 > **Full Stack Developer**
 
 Two-sided marketplace connecting film/TV crew members with production companies.
@@ -87,7 +85,7 @@ Two-sided marketplace connecting film/TV crew members with production companies.
 
 ---
 
-### 🍹 Drink-X | Social Discovery Platform
+### Drink-X | Social Discovery Platform
 > **Full Stack Developer**
 
 Social platform enabling users to discover, review, and share beverages with community-driven ratings.
@@ -101,7 +99,7 @@ Social platform enabling users to discover, review, and share beverages with com
 
 ---
 
-### 🤖 BAIR | AI-Powered Educational Platform
+### BAIR | AI-Powered Educational Platform
 > **Full Stack Developer** | Client: Beaconhouse School System
 
 AI-driven SaaS automating lesson plans and quiz creation for educational institutions.
@@ -115,7 +113,7 @@ AI-driven SaaS automating lesson plans and quiz creation for educational institu
 
 ---
 
-### 💼 Nowhow.ai | B2B IT Platform
+### Nowhow.ai | B2B IT Platform
 > **Full Stack Developer**
 
 Enterprise platform connecting industry experts, IT solution providers, and SMEs.
@@ -129,7 +127,7 @@ Enterprise platform connecting industry experts, IT solution providers, and SMEs
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Independent Full Stack Software Engineer** | *Feb 2023 - Present*  
 🌍 Remote - International Clients
@@ -145,7 +143,7 @@ Enterprise platform connecting industry experts, IT solution providers, and SMEs
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danishaqib&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
@@ -164,7 +162,7 @@ Enterprise platform connecting industry experts, IT solution providers, and SMEs
 
 ---
 
-## 🏆 What I Bring to the Table
+## What I Bring to the Table
 
 - ✅ **Production-Grade Systems:** Experience launching platforms serving 15,000+ users
 - ✅ **AI Integration Expertise:** Reduced manual workflows by 70% through LLM integration
@@ -175,7 +173,7 @@ Enterprise platform connecting industry experts, IT solution providers, and SMEs
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/danishaqib" target="_blank">
