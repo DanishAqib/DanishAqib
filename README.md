@@ -71,21 +71,7 @@ A comprehensive digital marketplace connecting **15,000+ Indigenous-owned busine
 
 ---
 
-### Crewforge | Entertainment Industry Talent Marketplace
-> **Full Stack Developer**
-
-Two-sided marketplace connecting film/TV crew members with production companies.
-
-**Tech Stack:** Next.js, Supabase, Firebase, Vercel, Stripe API  
-**Key Features:**
-- Department-based filtering (Camera, Sound, Production, etc.)
-- Skill-level categorization and availability tracking
-- Tiered subscription model with premium features
-- Real-time notification system for job postings
-
----
-
-### Drink-X | Social Discovery Platform
+### [Drink-X](https://drink-x.com) | Social Discovery Platform
 > **Full Stack Developer**
 
 Social platform enabling users to discover, review, and share beverages with community-driven ratings.
@@ -96,6 +82,20 @@ Social platform enabling users to discover, review, and share beverages with com
 - Geolocation-based venue discovery
 - Crowdsourced rating algorithm
 - User check-ins and personalized recommendations
+
+---
+
+### [Crewforge](https://www.crewforge.pro) | Entertainment Industry Talent Marketplace
+> **Full Stack Developer**
+
+Two-sided marketplace connecting film/TV crew members with production companies.
+
+**Tech Stack:** Next.js, Supabase, Firebase, Vercel, Stripe API  
+**Key Features:**
+- Department-based filtering (Camera, Sound, Production, etc.)
+- Skill-level categorization and availability tracking
+- Tiered subscription model with premium features
+- Real-time notification system for job postings
 
 ---
 
