@@ -1,4 +1,6 @@
-# Danish Aqib | Full Stack Software Engineer 🚀
+![Banner](https://github.com/DanishAqib/DanishAqib/blob/main/Banner.png)
+
+<h1 align="center">Danish Aqib | Full Stack Software Engineer 🚀</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danishaqib&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -146,12 +148,18 @@ Enterprise platform connecting industry experts, IT solution providers, and SMEs
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danishaqib&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishaqib&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=danishaqib&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishaqib&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danishaqib&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danishaqib&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=danishaqib&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -169,7 +177,7 @@ Enterprise platform connecting industry experts, IT solution providers, and SMEs
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/danishaqib" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -181,6 +189,12 @@ Enterprise platform connecting industry experts, IT solution providers, and SMEs
 </a>
 <a href="https://github.com/DanishAqib" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/danish_aqib" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://facebook.com/danish.aaquib" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 </p>
 
