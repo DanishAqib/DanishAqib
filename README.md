@@ -155,12 +155,6 @@ Enterprise platform connecting industry experts, IT solution providers, and SMEs
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danishaqib&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danishaqib&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ## What I Bring to the Table
