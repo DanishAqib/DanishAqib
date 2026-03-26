@@ -99,7 +99,7 @@ Two-sided marketplace connecting film/TV crew members with production companies.
 
 ---
 
-### BAIR | AI-Powered Educational Platform
+### [BAIR](https://bair.bh.edu.pk) | AI-Powered Educational Platform
 > **Full Stack Developer** | Client: Beaconhouse School System
 
 AI-driven SaaS automating lesson plans and quiz creation for educational institutions.
@@ -110,10 +110,11 @@ AI-driven SaaS automating lesson plans and quiz creation for educational institu
 - Automated Google Docs distribution
 - Intelligent chatbot for 24/7 teacher support
 - Curriculum standards compliance
+- Accessible only for organization members
 
 ---
 
-### Nowhow.ai | B2B IT Platform
+### [Nowhow](https://www.nowhow.ai) | B2B IT Platform
 > **Full Stack Developer**
 
 Enterprise platform connecting industry experts, IT solution providers, and SMEs.
