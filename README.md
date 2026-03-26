@@ -147,11 +147,6 @@ Enterprise platform connecting industry experts, IT solution providers, and SMEs
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danishaqib&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishaqib&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danishaqib&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
